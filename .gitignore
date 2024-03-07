@@ -125,3 +125,17 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.idea/*
+.yalc
+yalc.lock
+.nyc_output
+build
+node_modules
+src/**.js
+coverage
+*.log
+yarn.lock
+types
+types/*
+.env
+cache/
